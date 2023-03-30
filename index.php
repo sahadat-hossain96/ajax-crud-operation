@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>This is for ajax</title>
+	<title>Ajax Crud Operation</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
